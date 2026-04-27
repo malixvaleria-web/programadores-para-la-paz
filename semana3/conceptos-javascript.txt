@@ -1,0 +1,47 @@
+Conceptos básicos de JavaScript – Semana 3 Día 1
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Responde con tus propias palabras.
+
+1. ¿Qué es JavaScript?
+
+Respuesta:
+
+2. ¿Qué permite hacer Node.js en esta clase?
+
+Respuesta:
+
+3. ¿Qué hace el comando node algoritmo-verificacion.js?
+
+Respuesta:
+
+4. ¿Qué es una variable?
+
+Respuesta:
+
+5. ¿Para qué se usa const?
+
+Respuesta:
+
+6. ¿Para qué se usa let?
+
+Respuesta:
+
+7. ¿Qué significa if?
+
+Respuesta:
+
+8. ¿Qué significa else?
+
+Respuesta:
+
+9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
+
+Respuesta:
+
+10. ¿Cómo se relaciona este ejercicio con la verificación de información?
+
+Respuesta:
