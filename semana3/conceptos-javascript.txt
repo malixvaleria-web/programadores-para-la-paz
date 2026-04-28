@@ -1,47 +1,47 @@
 Conceptos básicos de JavaScript – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:alix valeria
+Fecha:28/04/2026
+Nombre de la rama:alix_valeria
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta:
+Respuesta:Es un lenguaje de programación que permite crear contenido dinámico e interactivo en páginas web y aplicaciones.
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta:Permite ejecutar los archivos de JavaScript directamente en nuestra computadora sin necesidad de usar un navegador web.
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta:Ordena a la computadora que lea y ejecute las instrucciones lógicas que están escritas dentro de ese archivo específico.
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta:Es como una "caja" con nombre donde guardamos un dato o información que el programa necesita usar más adelante.
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta:Para declarar variables cuyo valor no va a cambiar en todo el programa (es constante).
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta:Para declarar variables que sí pueden cambiar su valor mientras el programa se está ejecutando.
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta:Significa "SI". Se usa para decirle al programa: "SI se cumple esta condición, haz esto".
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta:Significa "SI NO". Se usa para decirle al programa qué hacer cuando la condición del if NO se cumple.
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
-Respuesta:
+Respuesta:Porque ambas dependen de evaluar criterios lógicos; si no se cumplen los requisitos mínimos (como la veracidad), la acción no debe ejecutarse.
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
-Respuesta:
+Respuesta:En que usamos el código para automatizar el filtro de datos, asegurando que solo la información que cumple con los parámetros de "verificada" o "lenguaje claro" sea procesada.
