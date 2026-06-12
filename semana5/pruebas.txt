@@ -1,0 +1,10 @@
+Monitoreo y descripción de rutas en el navegador:
+
+1. Al ingresar a http://localhost:3000
+   Ocurre: El servidor responde con el texto "Servidor activo". Es la ruta raíz principal (GET /).
+
+2. Al ingresar a http://localhost:3000/saludo
+   Ocurre: El servidor responde con el texto "Hola comunidad". Muestra un mensaje estático de bienvenida.
+
+3. Al ingresar a http://localhost:3000/mensaje/juan
+   Ocurre: El servidor responde "Hola juan". Esta ruta utiliza un parámetro dinámico (:nombre) que toma cualquier palabra que escribamos en la URL y la muestra en la pantalla de forma personalizada.
