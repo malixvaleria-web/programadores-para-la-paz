@@ -1,0 +1,2 @@
+REFLEXIÓN SEMANA 6
+El desarrollo de APIs y servidores web nos permite crear herramientas automatizadas para gestionar procesos críticos en las organizaciones, como el reporte inmediato de condiciones inseguras o incidencias laborales. Conectar la programación con la gestión del talento humano abre oportunidades para optimizar tiempos, proteger la integridad de los trabajadores y construir entornos de trabajo más eficientes y transparentes.

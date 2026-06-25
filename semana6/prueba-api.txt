@@ -1,0 +1,4 @@
+REGISTRO DE PRUEBAS DE LA API
+- GET /: Responde con el mensaje de bienvenida de la Semana 6.
+- GET /api/incidencias: Devuelve la lista en formato JSON con los reportes cargados de SST y Nómina.
+- POST /api/incidencias: Permite agregar nuevos reportes al sistema usando la terminal o herramientas de desarrollo.

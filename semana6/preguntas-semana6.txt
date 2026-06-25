@@ -1,0 +1,13 @@
+CUESTIONARIO SEMANA 6 - NODE.JS Y EXPRESS
+
+1. ¿Qué es un código de estado HTTP?
+R// Es una respuesta numérica que da el servidor para indicarle al cliente (como el navegador) si la petición fue exitosa o si hubo algún error.
+
+2. ¿Qué significan los códigos 200, 201, 400 y 500?
+- 200 (OK): La consulta fue exitosa y devolvió los datos correctamente.
+- 201 (Created): Indica que se creó con éxito un nuevo recurso (como un nuevo registro).
+- 400 (Bad Request): Error del cliente; la petición no se envió de forma correcta.
+- 500 (Internal Server Error): Error del servidor; algo falló internamente en el código.
+
+3. ¿Para qué sirve 'express.json()'?
+R// Es un middleware que permite que nuestro servidor entienda y procese los datos en formato JSON que le envían en las peticiones.

@@ -1,0 +1,5 @@
+REPORTE DE INCIDENCIA ORGANIZACIONAL - SST
+Área: Seguridad y Salud en el Trabajo
+Descripción: Se detectó una obstrucción en el pasillo principal debido a cajas de archivo mal almacenadas, lo que bloquea la ruta de evacuación.
+Impacto: Alto (Riesgo de accidente laboral).
+Estado inicial: Pendiente.
