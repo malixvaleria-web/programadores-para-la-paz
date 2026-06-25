@@ -1,0 +1,13 @@
+EJEMPLOS DE REPORTES CIUDADANOS
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público en la calle principal, dejando la zona a oscuras."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos sólidos y basura en la zona comunitaria del parque central."
+}

@@ -1,0 +1,5 @@
+EXPLICACIÓN DE LA CONSULTA DE REPORTES (GET /reportes)
+
+Al realizar una petición GET a la ruta http://localhost:3000/reportes, el servidor Express responde enviando la lista completa de reportes almacenados en el array 'reportes' en formato JSON.
+
+Si consultamos la ruta inmediatamente después de encender el servidor por primera vez, la respuesta será una lista vacía representada por corchetes vacíos []. Sin embargo, después de realizar peticiones POST para agregar información, la consulta GET nos devolverá un arreglo que contiene objetos detallados con el "id" único asignado automáticamente por el servidor, el "tipo" de reporte y su "descripcion". Esto demuestra cómo los datos se guardan y persisten de forma temporal en la memoria dinámica del servidor mientras este continúe encendido.
