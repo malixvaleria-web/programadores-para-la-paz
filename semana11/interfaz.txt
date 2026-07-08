@@ -1,0 +1,9 @@
+DISEÑO DE INTERFAZ BÁSICA Y EXPERIENCIA DE USUARIO
+
+La interfaz de la plataforma está proyectada como un entorno web sencillo, intuitivo y responsivo compuesto por las siguientes secciones esenciales:
+
+1. Formulario de creación: Un panel superior exclusivo para usuarios autenticados que contiene campos de texto limpios para ingresar el título, la descripción y un selector de categoría de la nueva causa comunitaria.
+2. Vista de causas disponibles: Una sección central organizada en tarjetas (cards) visuales donde toda la ciudadanía puede leer las iniciativas publicadas en orden cronológico o por nivel de relevancia.
+3. Botón de apoyo y contador: Cada tarjeta de causa incorpora un botón de acción rápida con el mensaje "Apoyar Causa" y un contador numérico destacado al lado que muestra la cantidad exacta de respaldos acumulados en tiempo real.
+
+Para salvaguardar el entorno comunitario, la interfaz maneja un diseño limpio que omite cualquier visualización de datos privados, enfocándose únicamente en el impacto social de la causa.
