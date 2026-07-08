@@ -1,0 +1,11 @@
+BACKLOG PRIORIZADO DEL PROYECTO COMUNITARIO
+
+[ALTA PRIORIDAD]
+1. Historia de Usuario: Como ciudadano afectado, quiero registrar una incidencia de forma anónima en el sistema para dejar evidencia digital del caso sin temor a represalias.
+2. Historia de Usuario: Como coordinador de la plataforma, quiero recibir una notificación automática en Telegram cada vez que se registre un nuevo caso para revisarlo y clasificarlo con prontitud.
+
+[MEDIA PRIORIDAD]
+3. Historia de Usuario: Como miembro del equipo de seguimiento, quiero consultar una lista consolidada de reportes activos para actualizar el estado del proceso de veeduría.
+
+[BAJA PRIORIDAD]
+4. Historia de Usuario: Como usuario de la comunidad, quiero descargar un resumen estadístico mensual en formato PDF para presentarlo en las asambleas comunitarias locales.

@@ -1,0 +1,10 @@
+DISEÑO DE AUTOMATIZACIÓN RESPONSABLE CON N8N Y TELEGRAM
+
+1. ¿Qué evento activa el flujo?
+R// El flujo se activa mediante un nodo Webhook en n8n que detecta la inserción exitosa de un nuevo reporte de incidencia en el backend de la aplicación Express.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+R// "🚀 ¡Atención Coordinación! Se ha recibido un nuevo reporte comunitario en la plataforma. ID del caso: #412. Por favor, ingresa al panel administrativo seguro para revisar los detalles del caso e iniciar la trazabilidad."
+
+3. ¿Qué información NO debería enviarse por motivos de seguridad?
+R// Por estrictas razones de seguridad digital, bajo ninguna circunstancia se deben enviar a través de Telegram datos sensibles como: nombres completos de los denunciantes, números de documentos de identidad, direcciones residenciales exactas, números telefónicos de contacto, contraseñas, ni descripciones detalladas que puedan individualizar o poner en riesgo a los miembros de la comunidad.
