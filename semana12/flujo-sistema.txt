@@ -1,0 +1,9 @@
+FLUJO OPERATIVO DEL SISTEMA: "PETICIÓN EN 3 CLICS"
+
+El sistema funciona de manera secuencial a través de los siguientes 5 pasos lógicos:
+
+Paso 1 (Creación de la Causa): Un ciudadano o líder comunitario ingresa a la plataforma web y registra una nueva causa de interés colectivo, detallando el problema de su entorno mediante un título y una descripción clara.
+Paso 2 (Almacenamiento en Base de Datos): El backend (servidor Node.js) procesa la solicitud y almacena de forma segura la nueva causa dentro de la base de datos persistente.
+Paso 3 (Respaldo de la Comunidad): Los vecinos ingresan a la plataforma, leen las iniciativas activas y, con un solo clic en el botón "Apoyar Causa", registran su apoyo de manera digital.
+Paso 4 (Conteo y Validación): El sistema actualiza el contador de apoyos en tiempo real, aplicando validaciones técnicas para evitar registros duplicados y mantener la transparencia del proceso.
+Paso 5 (Generación del PDF y Alerta): Al cumplirse el objetivo o plazo establecido, el servidor compila de forma automática la causa y la cantidad de apoyos en un documento formal en formato PDF (listo para ser radicado ante entidades públicas), y envía una notificación automática de éxito al grupo de coordinación en Telegram.

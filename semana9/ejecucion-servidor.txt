@@ -1,0 +1,14 @@
+REGISTRO DE EJECUCIÓN DEL SERVIDOR - SEMANA 9
+
+1. ¿Qué ocurre cuando ejecutas 'node server.js'?
+R// Al ejecutar el comando, el entorno de Node.js interpreta y pone en marcha el archivo de configuración. El servidor Express se activa de forma permanente en segundo plano, abriendo un canal de comunicación para recibir peticiones a través de la red informática.
+
+2. ¿Qué mensaje aparece en la terminal?
+R// En la consola se despliega el mensaje informativo programado en el listen: "Servidor ejecutándose en puerto 3000".
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+R// El servidor procesa la solicitud del cliente mediante el método GET y responde de inmediato enviando un objeto de datos estructurado en formato JSON con la siguiente información:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

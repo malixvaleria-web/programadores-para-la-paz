@@ -1,0 +1,22 @@
+MODELO DE DATOS: "PETICIÓN EN 3 CLICS"
+
+Entidad: Causa
+Atributos:
+- id: Identificador único de la causa (Clave Primaria).
+- titulo: Texto que resume de forma clara el propósito o problemática de la petición.
+- descripcion: Texto extenso que detalla los motivos y justificaciones de la causa.
+- fecha: Fecha y hora exacta de creación del registro.
+
+Propósito:
+Esta entidad sirve para registrar de manera ordenada las solicitudes o problemáticas que los miembros de la comunidad proponen para ser evaluadas y respaldadas públicamente en la plataforma.
+
+
+Entidad: Apoyo
+Atributos:
+- id: Identificador único de cada voto o respaldo (Clave Primaria).
+- causa_id: Identificador de la causa que se está respaldando (Clave Foránea).
+- nombre: Nombre de ejemplo (o identificador anonimizado de control) para verificar la legitimidad del apoyo.
+- fecha: Registro temporal de cuándo se hizo clic en el botón de apoyo.
+
+Propósito:
+Esta entidad sirve para asociar y contabilizar de forma transparente el respaldo de los ciudadanos hacia una causa específica en la base de datos, garantizando la trazabilidad de los apoyos sin exponer datos confidenciales.

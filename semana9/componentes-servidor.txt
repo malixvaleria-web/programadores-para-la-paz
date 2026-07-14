@@ -1,0 +1,16 @@
+COMPONENTES DE UN ENTORNO SERVIDOR
+
+- Sistema operativo:
+Es el software base que administra de forma directa todos los componentes físicos del servidor y provee el entorno fundamental, los permisos y la seguridad necesarios para ejecutar aplicaciones y procesos.
+
+- Node.js:
+Es el entorno de ejecución en tiempo real que permite interpretar y correr código JavaScript en el lado del servidor, procesando solicitudes de los usuarios de manera rápida, concurrente y eficiente.
+
+- Aplicación server.js:
+Es el archivo de código principal escrito por nosotros que contiene la lógica del negocio, define los accesos o rutas (endpoints) de la API y especifica cómo debe responder el sistema ante cada consulta ciudadana.
+
+- Puerto:
+Es un punto de conexión o canal virtual específico en el sistema operativo (como el puerto 3000) diseñado para canalizar, organizar y direccionar el tráfico de red directo hacia nuestra aplicación Express.
+
+- Logs:
+Son archivos históricos de registro generados automáticamente que guardan la cronología de actividades, accesos de usuarios y errores del sistema, facilitando auditorías técnicas, monitoreo y mantenimiento rápido.

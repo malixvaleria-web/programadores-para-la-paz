@@ -1,0 +1,10 @@
+DISEÑO DE AUTOMATIZACIÓN DE RESPALDOS CON N8N Y TELEGRAM
+
+1. ¿Qué evento activa la automatización?
+R// El flujo automático se activa en n8n mediante un webhook que se dispara cuando una causa alcanza o supera la meta establecida de firmas o apoyos comunitarios en la base de datos.
+
+2. ¿Qué mensaje se envía?
+R// "📢 ¡Meta de apoyos alcanzada! La causa comunitaria con ID #[ID_Causa] ha recolectado de forma exitosa todas las firmas necesarias. El sistema ha generado de manera automática el documento PDF formal con la petición para su descarga e inicio del trámite de veeduría."
+
+3. ¿Qué información NO debe enviarse por seguridad?
+R// Por políticas estrictas de privacidad y seguridad de la información ciudadana, bajo ninguna circunstancia deben enviarse datos personales sensibles a través de Telegram, tales como: números de documentos de identidad, números de teléfono privados, correos electrónicos, direcciones residenciales de los votantes, contraseñas de acceso o comentarios subjetivos que vulneren la seguridad de la comunidad.

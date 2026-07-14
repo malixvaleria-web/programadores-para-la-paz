@@ -1,0 +1,7 @@
+PRÁCTICAS DE SEGURIDAD PARA PLATAFORMAS DIGITALES COMUNITARIAS
+
+1. No exponer datos personales de los usuarios ni de la comunidad en bases de datos o repositorios públicos.
+2. Proteger las credenciales de administración mediante autenticación de doble factor (2FA).
+3. Usar conexiones seguras y cifradas (protocolos HTTPS y SSH) para cualquier intercambio de información.
+4. Registrar de manera organizada los accesos y eventos del sistema para detectar actividades sospechosas a tiempo.
+5. Limitar de forma estricta el acceso a la información sensible, asignando permisos solo a roles autorizados.
