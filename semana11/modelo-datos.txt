@@ -1,0 +1,25 @@
+MODELO DE DATOS SIMPLIFICADO PARA PLATAFORMA COMUNITARIA
+
+Entidad: Causa
+
+Campos principales:
+- id: identificador único (Clave primaria)
+- titulo: texto (Nombre o enunciado de la causa)
+- descripcion: texto (Detalles u objetivos de la iniciativa)
+- fecha_creacion: fecha (Momento del registro en el sistema)
+- estado: texto (Activa, en revisión o completada)
+
+Propósito:
+Almacenar de forma organizada las diferentes causas, iniciativas o proyectos comunitarios que se proponen en el territorio para que sean visibles de manera pública en la interfaz.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: identificador único (Clave primaria)
+- causa_id: identificador numérico (Clave foránea que conecta con la entidad Causa)
+- usuario_anonimo_hash: texto (Código único cifrado para validar la unicidad del voto sin guardar datos personales)
+- fecha_apoyo: fecha y hora (Momento exacto en que se registró el respaldo)
+
+Propósito:
+Registrar de manera transparente los apoyos o firmas digitales que recibe cada causa comunitaria, permitiendo auditar el nivel de participación y respaldo social sin revelar la identidad de los votantes.

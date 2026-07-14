@@ -1,0 +1,13 @@
+PLANIFICACIÓN DE LA ITERACIÓN Y DEFINICIÓN DE TERMINADO
+
+1. ¿Qué 2 tareas del backlog harías primero?
+R// Desarrollaría primero el registro de incidencias por parte del ciudadano y la notificación automática de alertas en Telegram para el coordinador.
+
+2. ¿Por qué son las más importantes?
+R// Son las tareas más importantes porque constituyen el núcleo funcional de la solución. Sin la capacidad de capturar el reporte inicial de la comunidad, no existe información que procesar; y sin una alerta inmediata al coordinador, el flujo participativo se frena, restándole agilidad y capacidad de respuesta al proceso organizativo.
+
+3. Definición de Terminado (Definition of Done - DoD):
+Para que una tarea se considere completamente "terminada", debe cumplir estrictamente con los siguientes criterios:
+- Funcionalidad: El código cumple al 100% con los requisitos descritos en la historia de usuario y se ejecuta sin errores.
+- Pruebas y Validación: La funcionalidad ha sido probada de forma manual o automatizada en el entorno de desarrollo, validando escenarios correctos y manejo de errores.
+- Trazabilidad en Git: El código fuente limpio fue guardado, documentado mediante commits descriptivos y subido exitosamente al repositorio remoto en GitHub.
